@@ -1,0 +1,2 @@
+write a code in python to perform binary search
+running:python main.py
